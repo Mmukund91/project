@@ -1,0 +1,22 @@
+.bg-cover {
+    background-attachment: static;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.newfont{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+.bolder{
+    font-weight: bolder;
+}
+
+.custom-size{
+    font-size: xx-large;
+}
+
+.myfont {
+    font-family: serif;
+}
